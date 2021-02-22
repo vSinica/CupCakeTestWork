@@ -1,0 +1,16 @@
+.minimumCost {
+    background-color: dodgerblue;
+}
+
+h1 {
+    margin-left: 80px;
+}
+
+table th,td{
+    border: 1px solid gray;
+    padding: 13px;
+}
+table{
+    border-spacing: 0px 0px;
+    margin: 30px;
+}
